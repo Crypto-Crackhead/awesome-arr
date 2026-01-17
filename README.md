@@ -21,7 +21,6 @@
 - [Lidarr](https://lidarr.audio/) - Lidarr is a music collection manager.
 - [Radarr](https://radarr.video/) - Radarr is a movie collection manager.
 - [Sonarr](https://sonarr.tv/) - Smart PVR for newsgroup and bittorrent users.
-- [Whisparr](https://whisparr.com/) - Whisparr is an adult movie collection manager.
 
 ## Indexer Managers
 
