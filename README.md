@@ -1,6 +1,6 @@
 # Awesome *Arr [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Lidarr, Prowlarr, Radarr, Sonarr, and Whisparr are collectively referred to as "*arr" or "*arrs". They are designed to automatically grab, sort, organize, and monitor your Music, Movie, E-Book, or TV Show collections for Lidarr, Radarr, Sonarr, and Whisparr; and to manage your indexers and keep them in sync with the aforementioned apps for Prowlarr. This list aims to list all *arrs and things related to them
+> Lidarr, Prowlarr, Radarr, and Sonarr, are collectively referred to as "*arr" or "*arrs". They are designed to automatically grab, sort, organize, and monitor your Music, Movie, E-Book, or TV Show collections for Lidarr, Radarr, and Sonarr; and to manage your indexers and keep them in sync with the aforementioned apps for Prowlarr. This list aims to list all *arrs and things related to them
 
 ## Contents
 
@@ -63,11 +63,11 @@
 - [Cleanarr (hrenard)](https://github.com/hrenard/cleanarr/) - A small utility tasked to automatically clean radarr and sonarr files over time.
 - [Cleanarr (se1exin)](https://github.com/se1exin/Cleanarr) - A simple UI to help find and delete duplicate and sample files from your Plex server.
 - [Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - An advanced cleaner for dead or malicious torrents.
-- [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1 click installer and updater for Prowlarr, Lidarr, Radarr, Sonarr and Whisparr. Also links and connects qBittorrent.
+- [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1 click installer and updater for Prowlarr, Lidarr, Radarr, and Sonarr. Also links and connects qBittorrent.
 - [Collectarr](https://github.com/RiffSphere/Collectarr) - A Python script for checking your Radarr database and setting up collection lists. Also supports "smart" actor lists based on TMDB.
 - [Crossarr](https://github.com/TMD20/crossarr) - Cross Seed via Arr Programs.
 - [Dasharr](https://github.com/Arcadia-Solutions/Dasharr) - Dashboard of torrent indexers usage, profile stats evolution over time.
-- [Decluttarr](https://github.com/ManiMatter/decluttarr) - Watches radarr, sonarr, lidarr and whisparr download queues and removes downloads if they become stalled or no longer needed.
+- [Decluttarr](https://github.com/ManiMatter/decluttarr) - Watches radarr, sonarr and lidarr download queues and removes downloads if they become stalled or no longer needed.
 - [Deleterr](https://github.com/rfsbraz/deleterr) - Automates deleting inactive and stale media from Plex/Sonarr/Radarr.
 - [Deployarr](https://github.com/anandslab/deployarr) - Deployarr automates Homelab setup using Docker and Docker Compose.
 - [Elsewherr](https://github.com/Adman1020/Elsewherr) - See disclaimer on page. See if your movies from Radarr are available on a streaming service, and add a tag against the movie if it is.
