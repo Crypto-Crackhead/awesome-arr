@@ -5,7 +5,7 @@ Ensure your pull request adheres to the following guidelines:
 - Follow the format `- [Name](link) - A small description.`
 - Maintain alphabetical order in each category.
 - Submitted projects must meet a popularity threshold:
-    - **GitHub:** Minimum 50 stars.
+    - **GitHub:** Minimum 15 stars.
     - **Other Platforms:** Comparable community interest.
 
 I apologize if this feels like an arbitrary hurdle. Unfortunately, to keep this list focused and manageable, 
