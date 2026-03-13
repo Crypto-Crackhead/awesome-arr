@@ -1,4 +1,5 @@
-# Awesome *Arr without the ![Static Badge](https://img.shields.io/badge/diddy_*arr?style=plastic&logoSize=auto&label=%F0%9D%93%AF%F0%9D%93%BB%F0%9D%93%AE%F0%9D%93%AA%F0%9D%93%B4%F0%9D%94%82&labelColor=%23b00085&color=%231e1e1e) "diddy *arrs" [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome *Arr without the ![Static Badge](https://img.shields.io/badge/diddy_arr?style=plastic&logo=https%3A%2F%2Fexternal-content.duckduckgo.com%2Fiu%2F%3Fu%3Dhttps%253A%252F%252Fcdn3.emoji.gg%252Femojis%252F551408-freaky.png%26f%3D1%26nofb%3D1%26ipt%3Db8595a5a7433f45a8e183a8850b01a791f0f5f7983ef03071cbb1988cc5eeb24&logoSize=auto&label=%F0%9D%93%AF%F0%9D%93%BB%F0%9D%93%AE%F0%9D%93%AA%F0%9D%93%B4%F0%9D%94%82&labelColor=%23b00085&color=%231e1e1e)
+ "diddy *arrs" [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Lidarr, Prowlarr, Radarr, and Sonarr, are collectively referred to as "*arr" or "*arrs". They are designed to automatically grab, sort, organize, and monitor your Music, Movie, E-Book, or TV Show collections for Lidarr, Radarr, and Sonarr; and to manage your indexers and keep them in sync with the aforementioned apps for Prowlarr. This list aims to list all *arrs and things related to them
 
