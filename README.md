@@ -1,4 +1,4 @@
-# Awesome *Arr without the 𝓯𝓻𝓮𝓪𝓴𝔂 "diddy *arrs" [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Arr(s) without the 𝓯𝓻𝓮𝓪𝓴𝔂 "diddy arrs" [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Lidarr, Prowlarr, Radarr, and Sonarr, are collectively referred to as "*arr" or "*arrs". They are designed to automatically grab, sort, organize, and monitor your Music, Movie, E-Book, or TV Show collections for Lidarr, Radarr, and Sonarr; and to manage your indexers and keep them in sync with the aforementioned apps for Prowlarr. This list aims to list all *arrs and things related to them
 
